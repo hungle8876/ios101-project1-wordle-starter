@@ -19,7 +19,7 @@ class WordGenerator {
         return randomWord
     }
     return nil
-    // END YOUR CODE HERE
+    // END YOUR CODE HERE   
   }
 }
 
