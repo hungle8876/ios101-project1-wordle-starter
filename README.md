@@ -5,9 +5,9 @@ This is the starter project for iOS 101 Project 1 - Wordle Pt. 1
 
 Submitted by: Van Hung Le
 
-**Name of your app** is an app that ... [TODO] 
+WORDLE APP 
 
-Time spent: **X** hours spent in total
+Time spent: 3 hours spent in total
 
 ## Required Features
 
